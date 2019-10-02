@@ -1,0 +1,3 @@
+# Junk-Contributions
+Dump your codes here...
+Note: Codes must be dumb
